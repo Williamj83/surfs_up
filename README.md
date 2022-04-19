@@ -7,6 +7,9 @@ The purpose of this analysis is to gather more information about temperature tre
   - Average temperatures: June - 74.9 degrees; December - 71 degrees
   - Minimum temperatures: June - 64 degrees; December - 56 degrees.  
   - Maximum temperatures: June - 85 degrees; December -83 degrees.
+!["June Temps"](https://github.com/Williamj83/surfs_up/blob/main/June%20Temps.png)
+!["December Temps"](https://github.com/Williamj83/surfs_up/blob/main/December%20Temps.png)
+
 
 ## Summary
 My recommendation would be that this is a good spot, pending percipitation data.
